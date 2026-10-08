@@ -1,0 +1,23 @@
+{
+  "name": "PosterLab Dev",
+  "identifier": "com.gerdaroot.posterlab-dev-source",
+  "sourceURL": "https://github.com/gerdaroot/posterlab-dev/raw/main/apps.json",
+  "apps": [
+    {
+      "name": "PosterLab (dev)",
+      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "developerName": "gerdaroot",
+      "subtitle": "AntiClock + bad_query probe",
+      "version": "1.1.1",
+      "versionDate": "2026-10-08T21:20:04Z",
+      "versionDescription": "v10: added safe Probe button for bad_query diagnostics (no loop). Patch Active Clock still experimental.",
+      "size": 4867796,
+      "downloadURL": "https://github.com/gerdaroot/posterlab-dev/raw/main/PosterLab.ipa",
+      "localizedDescription": "PosterLab dev build with Patch Active Clock experiment (bad_query sandbox escape on iOS 26.1).",
+      "iconURL": "https://raw.githubusercontent.com/gerdaroot/posterlab-dev/main/icon.png",
+      "tintColor": "FA7343",
+      "permissions": []
+    }
+  ],
+  "news": []
+}
